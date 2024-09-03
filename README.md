@@ -19,7 +19,7 @@ This project was created as part of my coursework to demonstrate my skills in we
 
 ## How to Use
 1. Clone the Repository: Use the following command to clone the repository to your local machine.
-2. git clone <repository-url>
+   - git clone <repository-url>
 3. Open in Browser: Navigate to the project directory and open index.html in your web browser to view the website.
 
 ## Acknowledgements
