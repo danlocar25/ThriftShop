@@ -1,4 +1,5 @@
 # ThriftShop
+![456529109_518939550683931_5791191500430441443_n](https://github.com/user-attachments/assets/e30824ce-f6f7-43af-a604-1c343b18e7d1)
 
 ## Project Overview
 ThriftShop is an e-commerce website that focuses on selling thrifted outfits such as shirts, jeans, and shoes. This project was developed as a school assignment during my sophomore year as an IT student in the Web Development subject.
