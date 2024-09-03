@@ -22,5 +22,5 @@ This project was created as part of my coursework to demonstrate my skills in we
    - git clone <repository-url>
 3. Open in Browser: Navigate to the project directory and open index.html in your web browser to view the website.
 
-## Acknowledgements
+## Acknowledgement
 This project was developed as part of my studies in the Web Development subject during my sophomore year as an IT student.
