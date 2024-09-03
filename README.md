@@ -4,14 +4,14 @@
 ThriftShop is an e-commerce website that focuses on selling thrifted outfits such as shirts, jeans, and shoes. This project was developed as a school assignment during my sophomore year as an IT student in the Web Development subject.
 
 ## Project Details
-Name: ThriftShop
-Completion Date: April 2022
-Technologies Used: HTML, CSS, Bootstrap
+- Name: ThriftShop
+- Completion Date: April 2022
+- Technologies Used: HTML, CSS, Bootstrap
 
 ## Features
-Responsive Design: Built with Bootstrap to ensure the website is responsive and works well on all devices.
-Product Listings: Displays various thrifted products including shirts, jeans, and shoes.
-User-Friendly Interface: Designed to provide an easy and intuitive shopping experience for users.
+- Responsive Design: Built with Bootstrap to ensure the website is responsive and works well on all devices.
+- Product Listings: Displays various thrifted products including shirts, jeans, and shoes.
+- User-Friendly Interface: Designed to provide an easy and intuitive shopping experience for users.
 
 ## Purpose
 This project was created as part of my coursework to demonstrate my skills in web development using HTML, CSS, and Bootstrap. It allowed me to apply what I learned in class to create a functional e-commerce website.
